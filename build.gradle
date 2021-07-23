@@ -16,6 +16,7 @@ targetCompatibility = 11
 dependencies {
     testImplementation(
             "com.codeborne:selenide:5.23.0",
+            "com.codeborne:pdf-test:1.6.1",
             "com.opencsv:opencsv:5.3",
             "org.assertj:assertj-core:3.19.0",
             "org.apache.poi:poi-ooxml:3.7",
